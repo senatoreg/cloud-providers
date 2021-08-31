@@ -58,7 +58,7 @@
             "city": "Paris",
             "country": "FR",
             "estimated": true,
-            "facilities": 1,
+            "facilities": 3,
             "locationLat": 48.8566969,
             "locationLong": 2.3514616,
             "planned": false,
