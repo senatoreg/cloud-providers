@@ -230,6 +230,38 @@
             ]
         },
         {
+            "city": "Milan",
+            "country": "IT",
+            "estimated": true,
+            "facilities": 3,
+            "locationLat": 45.466667,
+            "locationLong": 9.2,
+            "planned": true,
+            "providerCode": "europe-west",
+            "providerCodeApi": "eurpe-west",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
+            "city": "Turin",
+            "country": "IT",
+            "estimated": true,
+            "facilities": 3,
+            "locationLat": 45.0677551,
+            "locationLong": 7.6824892,
+            "planned": true,
+            "providerCode": "europe-west",
+            "providerCodeApi": "eurpe-west",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
             "city": "Montreal",
             "country": "CA",
             "estimated": true,

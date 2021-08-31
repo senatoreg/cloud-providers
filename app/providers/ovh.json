@@ -1,0 +1,197 @@
+{
+    "beta": false,
+    "fedramp": false,
+    "hasBandwidthPricing": true,
+    "hasDnsPricing": false,
+    "hasStorageOptions": true,
+    "hasWebProbe": true,
+    "hasWebProbeSsl": true,
+    "name": "OVH",
+    "providerId": "ovh",
+    "regions": [
+        {
+            "city": "Roubaix",
+            "country": "FR",
+            "estimated": true,
+            "facilities": 8,
+            "locationLat": 50.6915893,
+            "locationLong": 3.1741734,
+            "planned": false,
+            "providerCode": "RBX",
+            "regions": [
+                "eu",
+                "eu_western"
+            ],
+            "special": false
+        },
+        {
+            "city": "Gravelines",
+            "country": "FR",
+            "estimated": true,
+            "facilities": 2,
+            "locationLat": 50.9870697,
+            "locationLong": 2.1273118,
+            "planned": false,
+            "providerCode": "GRA",
+            "regions": [
+                "eu",
+                "eu_western"
+            ],
+            "special": false
+        },
+        {
+            "city": "Strasbourg",
+            "country": "FR",
+            "estimated": true,
+            "facilities": 4,
+            "locationLat": 48.584614,
+            "locationLong": 7.7507127,
+            "planned": false,
+            "providerCode": "SBG",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
+            "city": "Paris",
+            "country": "FR",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 48.8566969,
+            "locationLong": 2.3514616,
+            "planned": false,
+            "providerCode": "TH",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
+            "city": "Warsaw",
+            "country": "PL",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 52.2337172,
+            "locationLong": 21.071432235636493,
+            "planned": false,
+            "providerCode": "WAW",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
+            "city": "London",
+            "country": "GB",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 51.5073219,
+            "locationLong": -0.1276474,
+            "planned": false,
+            "providerCode": "ERI",
+            "regions": [
+                "eu",
+                "eu_western"
+            ],
+            "special": false
+        },
+        {
+            "city": "Limburg",
+            "country": "DE",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 50.4411601,
+            "locationLong": 8.1577966,
+            "planned": false,
+            "providerCode": "ERI",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
+            "city": "Sydney",
+            "country": "AU",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": -33.8548157,
+            "locationLong": 151.2164539,
+            "planned": false,
+            "providerCode": "SYD",
+            "regions": [
+                "australia"
+            ],
+            "special": false
+        },
+        {
+            "city": "Singapore",
+            "country": "SG",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 1.2904753,
+            "locationLong": 103.8520359,
+            "planned": false,
+            "providerCode": "SGP",
+            "regions": [
+                "asia"
+            ],
+            "special": false
+        },
+        {
+            "city": "Beauharnois",
+            "country": "CA",
+            "estimated": true,
+            "facilities": 7,
+            "locationLat": 45.3139778,
+            "locationLong": -73.875834,
+            "planned": false,
+            "providerCode": "BHS",
+            "regions": [
+                "america",
+                "america_east"
+            ],
+            "special": false
+        },
+        {
+            "city": "Vint Hill",
+            "country": "US",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 38.74609755,
+            "locationLong": -77.67600070944903,
+            "planned": false,
+            "providerCode": "VIN",
+            "regions": [
+                "america",
+                "america_east"
+            ],
+            "special": false
+        },
+        {
+            "city": "Hillsboro",
+            "country": "US",
+            "estimated": true,
+            "facilities": 1,
+            "locationLat": 45.5228939,
+            "locationLong": -122.989827,
+            "planned": false,
+            "providerCode": "HIL",
+            "regions": [
+                "america",
+                "america_west"
+            ],
+            "special": false
+        }
+    ],
+    "serviceId": "ovh:compute",
+    "sla": 99.95,
+    "slaDescription": "",
+    "slaLink": "",
+    "type": "compute",
+    "website": "https://www.ovh.com/ca/en/discover/"
+}

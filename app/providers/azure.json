@@ -508,6 +508,36 @@
             "special": false
         },
         {
+            "city": "Milan",
+            "country": "IT",
+            "estimated": true,
+            "facilities": 3,
+            "locationLat": 45.468945,
+            "locationLong": 9.181030,
+            "planned": true,
+            "providerCode": "italy-north",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
+            "city": "Madrid",
+            "country": "ES",
+            "estimated": true,
+            "facilities": 3,
+            "locationLat": 40.420300,
+            "locationLong": -3.705774,
+            "planned": true,
+            "providerCode": "spain-central",
+            "regions": [
+                "eu",
+                "eu_central"
+            ],
+            "special": false
+        },
+        {
             "city": "Abu Dhabi",
             "country": "AE",
             "estimated": false,

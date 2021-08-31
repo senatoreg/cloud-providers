@@ -203,10 +203,10 @@
             "city": "Milan",
             "country": "IT",
             "estimated": false,
-            "facilities": 1,
+            "facilities": 3,
             "locationLat": 45.466667,
             "locationLong": 9.2,
-            "planned": true,
+            "planned": false,
             "providerCode": "eu-milan",
             "providerCodeApi": "eu-milan",
             "regions": [
